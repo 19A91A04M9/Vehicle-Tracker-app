@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: vehicle tracker-2
 
 on:
   push:
